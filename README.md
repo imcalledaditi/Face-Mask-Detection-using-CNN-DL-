@@ -5,8 +5,8 @@ This project demonstrates the implementation of a Convolutional Neural Network (
 Face mask detection has become crucial in public health measures during pandemics. This project provides a robust solution to automate face mask detection using deep learning techniques. It is built using Python and popular libraries like TensorFlow/Keras, ensuring high performance and accuracy.
 
 ## Requirements
-Python 3.x
-TensorFlow/Keras
+Python 3.x,
+TensorFlow/Keras,
 NumPy, Pandas, OpenCV, Matplotlib
 
 ## Dataset
