@@ -1,8 +1,19 @@
-# Face Mask Detection using Convolution Neural Network
+# Face Mask Detection using CNN
 This project demonstrates the implementation of a Convolutional Neural Network (CNN) to detect whether individuals are wearing face masks. The system processes images and classifies them into two categories: With Mask and Without Mask.
 
-## Overview
-Face mask detection has become crucial in public health measures during pandemics. This project provides a robust solution to automate face mask detection using deep learning techniques. It is built using Python and popular libraries like TensorFlow/Keras, ensuring high performance and accuracy.
+## Features
+- High-accuracy face mask detection using CNN.
+- Efficient data preprocessing and augmentation for model training.
+- Integration with Python libraries like TensorFlow, Keras, and OpenCV.
+
+## Getting Started
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/your-username/face-mask-detection.git
+2. Install dependencies:
+   ```bash
+   pip install -r requirements.txt
+
 
 ## Requirements
 Python 3.x,
