@@ -13,12 +13,12 @@ This project demonstrates the implementation of a Convolutional Neural Network (
 2. Install dependencies:
    ```bash
    pip install -r requirements.txt
-
+3.Run the notebook or scripts for training and detection.
 
 ## Requirements
-Python 3.x,
-TensorFlow/Keras,
-NumPy, Pandas, OpenCV, Matplotlib
+- Python 3.x,
+- TensorFlow/Keras,
+- NumPy, Pandas, OpenCV, Matplotlib
 
 ## Dataset
 https://www.kaggle.com/datasets/omkargurav/face-mask-dataset
