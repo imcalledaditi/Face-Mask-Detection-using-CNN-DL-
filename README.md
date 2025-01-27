@@ -24,5 +24,5 @@ This project demonstrates the implementation of a Convolutional Neural Network (
 https://www.kaggle.com/datasets/omkargurav/face-mask-dataset
 
 ## Usage
-Training: Use the provided notebook or script to train the CNN model.
-Detection: Apply the trained model to classify images or video streams.
+- Training: Use the provided notebook or script to train the CNN model.
+- Detection: Apply the trained model to classify images or video streams.
